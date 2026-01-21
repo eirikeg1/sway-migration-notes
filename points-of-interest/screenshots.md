@@ -1,6 +1,6 @@
 # Overview
 Best screenshot experience on Fedora/Sway is 
-with three specialized command line tools: Grim, Slurp, and Swappy
+with three specialized command line tools: Grim, Slurp, and Swappy.
 
 * Grim: Grabs the image (equivalent to the "Print Screen" function).
 

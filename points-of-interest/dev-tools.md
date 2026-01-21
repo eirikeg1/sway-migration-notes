@@ -1,6 +1,6 @@
 # Dev tools
 
-## Alacritty
+## Alacritty (If system has a dedicated GPU. If not, default foot will suffice)
 * Use alacritty from fotfiles
   * Requires to install nerd fonts, which is shown below:
 
@@ -21,3 +21,5 @@ fc-cache -fv
 # Clean up
 rm /tmp/JetBrainsMono.zip
 ```
+# tmux
+Download from [github](https://github.com/nordtheme/tmux)

@@ -1,12 +1,13 @@
 # Overview
 ---
 
-Fedora using the Sway spin. Easy migration over from i3-WM. Documentation at `man -k sway`
+Fedora using the Sway spin. Easy migration over from i3-WM. Documentation at `man -k sway`.
+
+This migration guide is made to quickly and easily set up my desktop environment. It uses the dotfiles I have uploaded to [github](https://github.com/eirikeg1/dotfiles-fedora-sway). Follow the installation guide here first.
 
 ## Initial thoughts
 * UK keyboard
 * Mouse doesn't move with keyboard controls when focusing windows, but windows-focus goes after mouse. This makes it so that you need to move the mouse for it to not focus back the previous windows after a few seconds
-* 
 
 
 ## Issues
